@@ -1,0 +1,16 @@
+{
+	"firstName"   : "Solid",
+	"lastName"	  : "Snake",
+	"displayHandle"  : "Snake",
+	"posts"  : [
+		
+		"I'm out here saving the world!",
+		"Not another Metal Gear!",
+		"I love woman!"
+		
+	],
+	"age"   :  "32",
+	"active"    :  "true"
+	
+	
+}
