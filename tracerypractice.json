@@ -1,0 +1,87 @@
+{
+	"name": [
+		"Kendrick",
+		"Drake",
+		"Croft",
+		"Wayne",
+		"Eminem",
+		"Stark"
+	],
+	"occupation": [
+		"Programmer",
+		"Chef",
+		"Web Developer",
+		"Actor",
+		"Musician",
+		"Entreprenuer"
+	],
+	"origin": [
+		"#name#, a #occupation# was #always# #expecting# this #adjective# #noun#",
+		"A #title# went on #wenton# to #whattheydo# and #verb#  #noun2#",
+		"http://www.#url#.com"
+	],
+	"always": [
+		"always",
+		"rarely",
+		"never",
+		"often",
+		"frequently",
+		"sometimes"
+	],
+	"expecting": [
+		"anticipating",
+		"imagining",
+		"waiting for",
+		"expecting",
+		""
+	],
+	"adjective": [
+		"easy",
+		"fun",
+		"",
+		"good",
+		"great"
+	],
+	"title": [
+		"Adventurer",
+		"Wizard",
+		"Knight",
+		"Hero"
+	],
+	"wenton": [
+		"an adventure",
+		"a journey",
+		"a quest",
+		"a mission"
+	],
+	"whattheydo": [
+		"save the princess",
+		"earn gold",
+		"slay a dragon",
+		"rescue a townsfolk"
+	],
+	"verb": [
+		"eat",
+		"play",
+		"sleep",
+		"run"
+	],
+	"noun2": [
+		"all day",
+		"tonight",
+		"tomorrow",
+		"later"
+	],
+	"noun": [
+		"game",
+		"conversation",
+		"day",
+		"hour"
+	],
+	"url": [
+		"rule",
+		"moneygame",
+		"dragonball",
+		"funny"
+	]
+}
